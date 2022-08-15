@@ -14,3 +14,14 @@ git@github.com:edmundonm/sql-training.git
 ### SQL Client
 Tableplus is a good option:
 https://tableplus.com/
+
+### Homebrew SQL Service
+
+Homebrew is a system for installing programs on your OSX. 
+
+To check if your MySQL server is running:
+`brew services list`
+
+To start/stop it:
+`brew services start mysql`
+`brew services stop mysql`
